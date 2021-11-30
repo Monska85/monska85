@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Monska85's GitHub stats](https://github-readme-stats.vercel.app/api?username=monska85&theme=dark&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=monska85&theme=dark&count_private=true&show_icons=true)
+
 <!--
 **Monska85/monska85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
